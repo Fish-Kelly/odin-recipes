@@ -1,0 +1,1 @@
+For this project, I created a rudimentary website that includes three recipes. The index page contains three recipe links. Each link leads to a different recipe. The formatting on each page is largely identical, includes headings, explanatory text, and both ordered and unordered lists.

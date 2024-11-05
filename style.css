@@ -1,0 +1,29 @@
+* {
+    display: border-box;
+}
+
+body {
+    width: 300px;
+    height: 150px;
+}
+
+.main,
+.main-list {
+    font-family: "Helvetica"
+}
+.main {
+    color: white;
+    background-color: navy;
+    text-align: center;
+    padding: 20px;
+    border: outset gray;
+
+}
+.main-list {
+    border: outset gray;
+    padding: 20px 20px 20px 30px;
+    color: black;
+    background-color: white;
+    font-size: 18px
+
+}

@@ -1,0 +1,22 @@
+.main,
+.main-list {
+    font-family: "Helvetica"
+}
+.main {
+    color: lime;
+    background-color: navy;
+
+}
+.main-list {
+    color: navy;
+    background-color: lime;
+    font-size: 18px
+
+}
+#beef-img {
+    height: 100px;
+    width: auto;
+}
+.beef-head {
+    color: navy;
+}
